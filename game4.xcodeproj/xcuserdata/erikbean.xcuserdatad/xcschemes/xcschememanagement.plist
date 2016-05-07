@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>EndlessVoid.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>game4.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>737DBA351C02B74900F959B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>737DBA4D1C02B74900F959B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>737DBA581C02B74900F959B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>73BC3ED61C0930BF0020E18D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>73BC3EEC1C0930BF0020E18D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>73BC3EF71C0930BF0020E18D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
